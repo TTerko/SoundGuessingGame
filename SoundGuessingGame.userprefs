@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Panels/GamePanelBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Panels/Generic/GenericPanelBehaviour.cs" Line="49" Column="1" />
+      <File FileName="Assets/Scripts/Panels/GamePanelBehaviour.cs" Line="8" Column="20" />
+      <File FileName="Assets/Scripts/Panels/OptionsPanelBehaviour.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
